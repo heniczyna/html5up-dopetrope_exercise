@@ -1,0 +1,4 @@
+# FILES YOU DO NOT WANT TO TRACK
+
+\!BACKUP
+#\ before ! is necessary as without this GIT still wants to add !BACKUP folder (refers to that folder name contains exclamation mark !)
